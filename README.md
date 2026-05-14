@@ -22,3 +22,10 @@ C = K - 273.15
 ```
 
 > Note: Kelvin conversion can only convert to/from Celsius (With no direct conversion to/from Fahrenheit, This project will convert to Celsius then to Kelvin)
+
+Solid state drives (SSD)
+
+```
+Normal operation temperatures 30C to 50C
+Dangerous operation at or above 70C
+```
