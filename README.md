@@ -1,6 +1,6 @@
 # TemperatureConverter
 
-C++ Temperature Converter (Fahrenheit &amp; Celsius)
+C++ Temperature Converter (Fahrenheit &amp; Celsius &amp; Kelvin)
 
 ## Compilation
 
